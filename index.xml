@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Manoj Sapkota</title>
+    <link>http://manoj34sapkota.github.io/</link>
+    <description>Recent content on Manoj Sapkota</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Manoj Sapkota</copyright><atom:link href="http://manoj34sapkota.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My CV and Resume</title>
+      <link>http://manoj34sapkota.github.io/cv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://manoj34sapkota.github.io/cv/</guid>
+      <description>My CV You can find my CV here.
+My Resume You can find my resume here.</description>
+    </item>
+    
+    <item>
+      <title>My Hobbies</title>
+      <link>http://manoj34sapkota.github.io/hobbies/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://manoj34sapkota.github.io/hobbies/</guid>
+      <description>Family Science Photography Sports Exploring new places Foods (Eating and cooking) </description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>http://manoj34sapkota.github.io/publications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://manoj34sapkota.github.io/publications/</guid>
+      <description>My Publications You can also check my Google Scholar Profile.
+Submitted 2022 2021 2020 2019 2018 2017 2016 </description>
+    </item>
+    
+  </channel>
+</rss>
