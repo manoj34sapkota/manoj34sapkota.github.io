@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "/mnt/c/Users/manoj/Documents/GitHub/manoj34sapkota.github.io_old/mysite",
+	"sourceRoot": "/mnt/c/Users/manoj/Documents/GitHub/mywebsite/mysite",
 	"sources": [
 		"themes/hello-friend-ng/assets/scss/main.scss",
 		"themes/hello-friend-ng/assets/scss/_normalize.scss",
